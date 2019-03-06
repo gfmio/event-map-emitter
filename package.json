@@ -1,6 +1,6 @@
 {
   "name": "event-map-emitter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Strongly typed event emitter",
   "types": "index.d.ts",
   "author": "Frederique Mittelstaedt <git@gfm.io>",
