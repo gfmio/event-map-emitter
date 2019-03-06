@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/npm/v/event-map-emitter.svg" alt="" title="" />
   </a>
   <a href="https://www.npmjs.com/package/event-map-emitter">
-    <img src="https://img.shields.io/npm/dw/event-map-emitter.svg" alt="" title="" />
-  </a>
-  <a href="https://www.npmjs.com/package/event-map-emitter">
     <img src="https://img.shields.io/npm/types/event-map-emitter.svg" alt="" title="" />
   </a>
   <!-- Code Climate -->
