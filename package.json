@@ -1,0 +1,27 @@
+{
+  "name": "event-map-emitter",
+  "version": "0.0.1",
+  "description": "Strongly typed event emitter",
+  "types": "index.d.ts",
+  "author": "Frederique Mittelstaedt <git@gfm.io>",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "event",
+    "map",
+    "emitter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfmio/event-map-emitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gfmio/event-map-emitter/issues"
+  },
+  "homepage": "https://github.com/gfmio/event-map-emitter#readme",
+  "devDependencies": {
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "dependencies": {}
+}
