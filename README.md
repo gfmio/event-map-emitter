@@ -107,7 +107,7 @@ eventEmitter.on(
 // This won't
 eventEmitter.on(
   "multiArgumentEvent",
-  (event: "multiArgumentEvent", a: number, b: string) => {
+  (event: "multiArgumentEvent", a: number, b: number) => {
     /* ... */
   },
 );
