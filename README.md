@@ -27,12 +27,6 @@
   <a href="https://codeclimate.com/github/gfmio/event-map-emitter">
     <img src="https://img.shields.io/codeclimate/tech-debt/gfmio/event-map-emitter.svg" alt="Code Climate technical debt" title="Code Climate technical debt" />
   </a>
-  <a href="https://codeclimate.com/github/gfmio/event-map-emitter">
-    <img src="https://img.shields.io/codeclimate/coverage/gfmio/event-map-emitter.svg" alt="Code Climate coverage" title="Code Climate coverage" />
-  </a>
-  <a href="https://codeclimate.com/github/gfmio/event-map-emitter">
-    <img src="https://img.shields.io/codeclimate/coverage-letter/gfmio/event-map-emitter.svg" alt="Code Climate coverage (letter)" title="Code Climate coverage (letter)" />
-  </a>
 </p>
 
 This package provides an event emitter interface for building strongly typed event emitters based on event maps.
